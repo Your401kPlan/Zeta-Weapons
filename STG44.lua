@@ -1,7 +1,7 @@
 --STG44.Lua
 local this={
 	modName = "STG-44",
-	modDesc = "Fill here.",
+	modDesc = "The StG 44 was the first successful assault rifle, with features including an intermediate cartridge, controllable automatic fire, a more compact design than a battle rifle with a higher rate of fire, and being designed primarily for hitting targets within a few hundred metres.",
 	modCategory = "Weapons",
 	modAuthor = "Your401kPlan",
 }
