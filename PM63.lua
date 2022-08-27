@@ -35,6 +35,7 @@ end
 function this.EquipDevelopConstSetting()
     return{
         {
+	    ["p00"]=50012,
             ["p01"]=TppEquip.WP_East_sm_020, 
             ["p06"]="name_wp_PM63",
             ["p07"]="info_wp_PM63",
